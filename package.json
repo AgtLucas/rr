@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/rr/issues"
   },
-  "homepage": "https://github.com/AgtLucas/rr#readme"
+  "homepage": "https://github.com/AgtLucas/rr#readme",
+  "dependencies": {
+    "director": "^1.2.8",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "reason-js": "^0.0.16"
+  }
 }
