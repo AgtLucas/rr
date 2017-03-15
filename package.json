@@ -20,6 +20,7 @@
     "director": "^1.2.8",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "reason-js": "^0.0.16"
+    "reason-js": "^0.0.16",
+    "reason-react": "https://github.com/reasonml/reason-react.git"
   }
 }

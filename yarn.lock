@@ -90,9 +90,15 @@ react@^15.4.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.0"
 
-reason-js@^0.0.16:
+reason-js@0.0.16, reason-js@^0.0.16:
   version "0.0.16"
   resolved "https://registry.yarnpkg.com/reason-js/-/reason-js-0.0.16.tgz#1ac01f78b38fb6bfbb90d38bcd07c72a1b4e9236"
+
+"reason-react@https://github.com/reasonml/reason-react.git":
+  version "0.0.1"
+  resolved "https://github.com/reasonml/reason-react.git#f53c4232adb68eaad002ea0ae62090f382044bb9"
+  dependencies:
+    reason-js "0.0.16"
 
 setimmediate@^1.0.5:
   version "1.0.5"
