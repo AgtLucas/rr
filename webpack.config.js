@@ -5,7 +5,7 @@ module.exports = {
     simple: './lib/js/src/simple/simpleRoot.js'
   },
   output: {
-    path: path.join(__dirname, 'bundleOutputs'),
+    path: path.join(__dirname, 'bundledOutputs'),
     filename: '[name].js'
   }
 }
