@@ -22,5 +22,9 @@
     "react-dom": "^15.4.2",
     "reason-js": "^0.0.16",
     "reason-react": "https://github.com/reasonml/reason-react.git"
+  },
+  "devDependencies": {
+    "bs-platform": "^1.5.2",
+    "webpack": "^2.2.1"
   }
 }
